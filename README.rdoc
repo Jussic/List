@@ -1,4 +1,4 @@
-<h> <b> LIST </b> </h>
+ <p> <b> LIST </b> </p>
 
  
 This is for those who wish to envision everything they need to do, and create visuals of tasks that need t be perfomed. Welcome to "Lists", where you can create running lists of things that need to be done, and prioritize your lists .
